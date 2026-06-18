@@ -1,0 +1,7 @@
+framework explanation:
+
+We done with the framework as part of the project requirment. In the class name of global we maintain all the test data and objects and we got an requirement of accessing in general there we have implemented Inheritence concept that is ehat accessing the data from one class to another class
+
+Debug:
+---------
+npx playwright test TC_001_AddEmployee.spec.ts --headed --debug

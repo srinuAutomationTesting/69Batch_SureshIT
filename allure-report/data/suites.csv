@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5034","TC001: HRMS Login and Logout","chromium","2026-06-12","passed","2026-06-12","","TC001_hrms_login_logout.spec.ts","",""
