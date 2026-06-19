@@ -9,6 +9,7 @@ export class global {
   public url: string = "https://ctcorphyd.com/SureshIT/login.php";
   public username: string = "sureshit";
   public password: string = "sureshit";
+  
   public empFirstName: string = "srinuit";
   public empLastName: string = "srinuit";
   public editFirstName:string = "srinuitt";
