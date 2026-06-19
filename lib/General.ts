@@ -1,8 +1,8 @@
 // To provide all re-usable functions / methods related to whole application
 
 import { expect } from "@playwright/test";
-import { global } from "./global";
-export class general extends global {
+import { Global } from "./Global";
+export class general extends Global {
   // user defined functions
 
   // open application

@@ -1,6 +1,6 @@
 // To provide Test Data and objects / elements related to whole application
 import { Page } from "@playwright/test";
-export class global {
+export class Global {
   // constructor
   constructor(public page: Page) {
     this.page = page; // to initialize the page object
