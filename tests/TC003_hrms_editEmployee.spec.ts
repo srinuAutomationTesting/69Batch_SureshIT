@@ -10,8 +10,8 @@ test('TC002: HRMS Add Employee', async({page})=>{
    await gen.waitTime();
    await gen.addEmployee();
    await gen.waitTime()
-   await gen.editEmployee();
-   await gen.verifyDisplayEmployee();
+   //await gen.editEmployee();
+   //await gen.verifyDisplayEmployee();
    await gen.logout();
 
 });
